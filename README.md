@@ -37,4 +37,19 @@ you Require to install
 
 * You can also update or delete your blogs 
 
-##
+## TECHNOLOGY USED
+
+* python v3.7
+* Bootstrap CDN
+* Material Bootstrap(MDB)
+* Flask
+
+## CONTACT INFORMATION
+
+leonbichanga@gmail.com
+
+## LICENCE
+
+this software license under MIT License
+
+Copyright (c) 2019 leon Bchizi
