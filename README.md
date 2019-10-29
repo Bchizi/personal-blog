@@ -51,5 +51,4 @@ leonbichanga@gmail.com
 ## LICENCE
 
 this software license under MIT License
-
-Copyright (c) 2019 leon Bchizi
+Copyright (c) 2019 leon Bchizi.
