@@ -35,7 +35,7 @@ you Require to install
 
 * You can also read other peoples blogs , comment on them and even vote for them
 
-* You can also update or delete your blogs 
+* You can also update or delete your blogs.
 
 ## TECHNOLOGY USED
 
